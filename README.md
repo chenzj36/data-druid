@@ -118,6 +118,6 @@ public class DruidConfig {
 }
 ```
 ## 用于测试Druid数据源是否生效的测试方法      
-![enter description here](http://q5053ip41.bkt.clouddn.com/xsj/1580816698905.png)
+![enter description here](https://aliyunosschenzj.oss-cn-beijing.aliyuncs.com/aliyunoss/1580816698905.png)
 - 结果      
-![enter description here](http://q5053ip41.bkt.clouddn.com/xsj/1580816739152.png)
+![enter description here](https://aliyunosschenzj.oss-cn-beijing.aliyuncs.com/aliyunoss/1580816739152.png)
